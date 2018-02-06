@@ -4,11 +4,25 @@
     <types>
         <members>A101</members>
         <members>A102</members>
+        <members>A2222</members>
+        <members>A99</members>
+        <members>ARPTCls1</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AuraTest2</members>
+        <members>AuraTest3</members>
         <members>Test1Aura</members>
         <members>forgotPassword</members>
         <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>CL</members>
+        <members>Cls1</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>College__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
