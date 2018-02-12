@@ -9,6 +9,7 @@
         <members>ARPTCls1</members>
         <members>AppCls01</members>
         <members>AppCls02</members>
+        <members>ApxCls3</members>
         <name>ApexClass</name>
     </types>
     <types>
