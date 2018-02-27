@@ -1,0 +1,147 @@
+commit 864d7534e63608db8dec601df8bb4cc337fa554a
+Author: Eswar-Reddy <sampath.c@autorabit.com>
+Date:   Mon Feb 12 22:10:15 2018 +0530
+
+    aura added
+
+A	aura/Auratest56/Auratest56.auradoc
+A	aura/Auratest56/Auratest56.css
+A	classes/ApxCls3.cls
+A	classes/ApxCls3.cls-meta.xml
+M	package.xml
+
+commit 18936dc18389bd20a1009ce9716d147063b0b2fe
+Author: Eswar-Reddy <sampath.c@autorabit.com>
+Date:   Mon Feb 12 22:02:53 2018 +0530
+
+    aura and cls files are added
+
+A	aura/Auratest56/Auratest56.cmp
+A	aura/Auratest56/Auratest56.cmp-meta.xml
+A	aura/Auratest56/Auratest56Controller.js
+A	aura/Auratest56/Auratest56Helper.js
+A	aura/Test1/Test1.auradoc
+A	aura/Test1/Test1.cmp
+A	aura/Test1/Test1.cmp-meta.xml
+A	aura/Test1/Test1.css
+A	aura/Test1/Test1.design
+A	aura/Test1/Test1.svg
+A	aura/Test1/Test1Controller.js
+A	aura/Test1/Test1Helper.js
+A	aura/Test1/Test1Renderer.js
+M	classes/A99.cls
+A	classes/AppCls01.cls
+A	classes/AppCls01.cls-meta.xml
+A	classes/AppCls02.cls
+A	classes/AppCls02.cls-meta.xml
+M	package.xml
+
+commit ce211bf8fcc4b5d5ae11c5d2bc40b0d931604716
+Author: Eswar-Reddy <eswar.n@autorabit.com>
+Date:   Fri Feb 9 18:46:18 2018 +0530
+
+    aura and cls deleted and cls modified
+
+D	aura/Test1Aura/Test1Aura.cmp
+D	aura/Test1Aura/Test1Aura.cmp-meta.xml
+D	aura/Test1Aura/Test1Aura.css
+D	aura/Test1Aura/Test1Aura.design
+D	aura/Test1Aura/Test1Aura.svg
+M	classes/A2222.cls
+D	classes/A2222.cls-meta.xml
+
+commit ee71166fdb75ef39d31cddf14e36e1083264a4f0
+Author: Eswar-Reddy <eswar.n@autorabit.com>
+Date:   Fri Feb 9 16:49:22 2018 +0530
+
+    cls file modified and aura folders are removed
+
+D	aura/forgotPassword/forgotPassword.cmp
+D	aura/forgotPassword/forgotPassword.cmp-meta.xml
+D	aura/forgotPassword/forgotPassword.css
+D	aura/forgotPassword/forgotPassword.design
+D	aura/forgotPassword/forgotPasswordController.js
+D	aura/forgotPassword/forgotPasswordHelper.js
+M	classes/A2222.cls
+
+commit f4596c4086e4b719d6dbcd2a3194c7de6b020b38
+Author: Eswar-Reddy <eswar.n@autorabit.com>
+Date:   Fri Feb 9 15:56:50 2018 +0530
+
+    aura files are modified
+
+M	aura/AuraTest2/AuraTest2.cmp
+M	aura/AuraTest2/AuraTest2.css
+
+commit 80fd44089597a61db3500352dc9600ba2c178092
+Author: Eswar-Reddy <eswar.n@autorabit.com>
+Date:   Fri Feb 9 15:56:04 2018 +0530
+
+    cls file modified
+
+M	classes/A99.cls
+
+commit 5b0cc04652b7eaa9358fd3f15ab79f6c2b0b7339
+Author: Eswar-Reddy <eswar.n@autorabit.com>
+Date:   Tue Feb 6 18:10:51 2018 +0530
+
+    cls and obj and aura components are added
+
+A	aura/AuraTest2/AuraTest2.auradoc
+A	aura/AuraTest2/AuraTest2.cmp
+A	aura/AuraTest2/AuraTest2.cmp-meta.xml
+A	aura/AuraTest2/AuraTest2.css
+A	aura/AuraTest2/AuraTest2.design
+A	aura/AuraTest2/AuraTest2.svg
+A	aura/AuraTest2/AuraTest2Controller.js
+A	aura/AuraTest2/AuraTest2Helper.js
+A	aura/AuraTest2/AuraTest2Renderer.js
+A	aura/AuraTest3/AuraTest3.auradoc
+A	aura/AuraTest3/AuraTest3.cmp
+A	aura/AuraTest3/AuraTest3.cmp-meta.xml
+A	aura/AuraTest3/AuraTest3.css
+A	aura/AuraTest3/AuraTest3.design
+A	aura/AuraTest3/AuraTest3.svg
+A	aura/AuraTest3/AuraTest3Controller.js
+A	aura/AuraTest3/AuraTest3Helper.js
+A	aura/AuraTest3/AuraTest3Renderer.js
+A	classes/A2222.cls
+A	classes/A2222.cls-meta.xml
+A	classes/A99.cls
+A	classes/A99.cls-meta.xml
+A	classes/ARPTCls1.cls
+A	classes/ARPTCls1.cls-meta.xml
+A	labels/CustomLabels.labels
+A	objects/College__c.object
+M	package.xml
+
+commit 5e3daf56a3c8a88c09e608c86044bb227fc221e9
+Author: Eswar-Reddy <eswar.n@autorabit.com>
+Date:   Tue Feb 6 18:06:02 2018 +0530
+
+    aura and cls files are added.
+
+A	aura/Test1Aura/Test1Aura.cmp
+A	aura/Test1Aura/Test1Aura.cmp-meta.xml
+A	aura/Test1Aura/Test1Aura.css
+A	aura/Test1Aura/Test1Aura.design
+A	aura/Test1Aura/Test1Aura.svg
+A	aura/forgotPassword/forgotPassword.cmp
+A	aura/forgotPassword/forgotPassword.cmp-meta.xml
+A	aura/forgotPassword/forgotPassword.css
+A	aura/forgotPassword/forgotPassword.design
+A	aura/forgotPassword/forgotPasswordController.js
+A	aura/forgotPassword/forgotPasswordHelper.js
+A	classes/A101.cls
+A	classes/A101.cls-meta.xml
+A	classes/A102.cls
+A	classes/A102.cls-meta.xml
+A	package.xml
+
+commit 62195502d4dadf3ac246e9eba0a72475a91b73d0
+Author: Eswar <Eswar-Reddy@users.noreply.github.com>
+Date:   Mon Feb 5 17:35:36 2018 +0530
+
+    Initial commit
+
+A	README.md
