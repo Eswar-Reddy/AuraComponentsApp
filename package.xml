@@ -4,6 +4,7 @@
     <types>
         <members>Account1</members>
         <members>Account1_Test</members>
+        <members>Account_2</members>
         <name>ApexClass</name>
     </types>
     <types>
